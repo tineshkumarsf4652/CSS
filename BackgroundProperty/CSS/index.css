@@ -1,0 +1,9 @@
+body{
+    /*background-image: url("../image/CSS.jpg");
+    background-repeat: no-repeat;
+    background-repeat: repeat-x (horizontal)
+    background-position: center center;
+    background-attachment: fixed;
+    background: lightcyan url("../image/CSS.jpg") no-repeat center center fixed;*/
+    background: lightcyan url("../image/CSS.jpg") no-repeat 50% 50% fixed;
+}

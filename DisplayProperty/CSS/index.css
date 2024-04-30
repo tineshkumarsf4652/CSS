@@ -1,0 +1,28 @@
+.link{
+    text-decoration:none;
+    color:white;
+}
+.link:hover{
+    color:black;
+}
+.wrapper{
+    border: 0.25em solid blue;
+    width:50%;
+    margin:0 25%;
+}
+.ul{
+    background-color:purple;
+    height:2rem;
+    
+}
+.li{
+    display:inline-block;
+    height:1rem;
+    padding: 0.5em;
+}
+.li:hover{
+    background-color: violet;
+}
+#comingsoon{
+    display:none;
+}

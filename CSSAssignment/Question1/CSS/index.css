@@ -1,0 +1,114 @@
+.container{
+    min-width:90em;
+    height:44.5em;
+    background-color: grey;
+    display:flex;
+    overflow:hidden;
+    justify-content: center;
+    font-family: sans-serif;
+    flex:wrap;
+}
+.box1{
+    min-width: 30rem;
+    min-height: 30rem;
+    margin-top: 14vh;
+    margin-bottom: 14vh;
+    background-color: rgb(124, 42, 42);
+    color:white;
+}
+.box2{
+    min-width: 30rem;
+    min-height: 30rem;
+    margin-top: 14vh;
+    margin-bottom: 14vh;
+    background-color: white;
+}
+.content1{
+    padding: 5rem 3rem;
+}
+.syncfusion{
+    font-size:1.5rem;
+}
+.hello{
+    font-size: 3rem;
+}
+.facebook{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(48, 48, 111);
+    width:27rem;
+    height:1.2rem;
+    display: flex;
+    padding: 0.7rem 1rem;
+}
+.google{
+    text-decoration: none;
+    color:white;
+    background-color: red;
+    width:27rem;
+    height:1.2rem;
+    display: flex;
+    padding: 0.7rem 1rem;
+}
+.twitter{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(30, 123, 154);
+    width:27rem;
+    height:1.2rem;
+    display: flex;
+    padding: 0.7rem 1rem;
+}
+.content2{
+    padding: 5rem 3rem;
+}
+#text{
+    font-family: sans-serif;
+}
+.login{
+    font-size: 1.2em;
+}
+.username{
+    width: 21rem;
+    height: 2rem;
+}
+.password{
+    width: 21rem;
+    height: 2rem;
+}
+.login1{
+    width:6rem;
+    height:3rem;
+    font-size: 1rem;
+    background-color: red;
+    color:white;
+    border-color: red;
+}
+img{
+    width:1em;
+}
+.warn{
+    color:crimson
+}
+.warn1{
+    color:blue;
+}
+.facebook:hover{
+    background-color: rgb(57, 57, 116);
+}
+.google:hover{
+    background-color: rgb(228, 60, 60);
+}
+.twitter:hover{
+    background-color:rgb(79, 158, 184);
+}
+.login1:hover{
+    background-color: rgb(232, 63, 63);
+}
+.link{
+    color:blue;
+}
+.link:hover{
+    color:rgb(76, 76, 171);
+}
+

@@ -1,0 +1,19 @@
+.wrapper{
+    width:20%;
+    border:0.5em solid blue;
+    margin: 0 0 0 0;
+}
+.wrapper1{
+    width:20%;
+    border:0.5em solid blue;
+    margin: 0 25%;
+}
+.padding{
+    padding:1em 0.5em 1em 0.5em;
+    margin: 0.1em 0;
+}
+.span{
+    border:0.2em solid blue;
+    padding:0.2em;
+    margin:2em 0;
+}

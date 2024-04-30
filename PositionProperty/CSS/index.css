@@ -1,0 +1,33 @@
+body{
+    padding-top:65px;
+}
+h1{
+    background-color:grey;
+    /*position:absolute;*/
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+}
+h2{
+    background-color: burlywood;
+    /*position:relative;
+    left: 25px;
+    top: -35px;
+    z-index:3;*/
+}
+h3{
+    background-color: cadetblue
+}
+p{
+    background-color:darkkhaki;
+    /*position:relative;
+    left:50px;
+    top:-65px;*/
+}
+span{
+    background-color:blue;
+}
+h1,h2,h3,p{
+    padding:10px;
+}

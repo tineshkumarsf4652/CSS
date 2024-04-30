@@ -1,0 +1,322 @@
+.container{
+    background-color: rgb(227, 252, 242);
+    width: 100%;
+    height: 100rem;
+    font-family:sans-serif;
+}
+.container1{
+    background-color: white;
+    min-height: 22%;
+}
+.header{
+    display: flex;
+    padding-left:11rem;
+    padding-top:0.7rem;
+    background-color: white;
+}
+.bolddesk{
+    font-family: sans-serif;
+    position:relative;
+    top:-1.2rem;
+    margin-right:7vw;
+    color:rgb(34, 34, 72);
+}
+.bold{
+    font-size: 1.2rem;
+}
+.by{
+    font-size:0.7rem;
+}
+.products{
+    margin-left:3vw;
+    font-weight: bold;
+    text-decoration:none;
+    color:rgb(34, 34, 72);
+}
+.solutions{
+    margin-left:3vw;
+    font-weight: bold;
+    text-decoration:none;
+    color:rgb(34, 34, 72);
+}
+.resources{
+    margin-left:3vw;
+    font-weight: bold;
+    text-decoration:none;
+    color:rgb(34, 34, 72);
+}
+.company{
+    margin-left:3vw;
+    font-weight: bold;
+    text-decoration:none;
+    color:rgb(34, 34, 72);
+}
+.pricing{
+    margin-left:3vw;
+    margin-right:10vw;
+    font-weight: bold;
+    text-decoration:none;
+    color:rgb(34, 34, 72);
+}
+.demo{
+    margin-right:2vw;
+    font-weight: bold;
+    height:2rem;
+    position:relative;
+    top:-0.3rem;
+    border:3px solid red;
+    background-color: white;
+    border-radius:8px;
+    color:red;
+    padding:1px 10px;
+}
+.trail{
+    height:2rem;
+    font-weight: bold;
+    position:relative;
+    top:-0.3rem;
+    border:3px solid red;
+    background-color: red;
+    border-radius:8px;
+    color:white;
+    padding:1px 10px;
+}
+.get{
+    font-size:3.2rem;
+    font-weight: bold;
+    margin-left:31vw;
+    color:rgb(34, 34, 72);
+}
+.contact1{
+    margin-left:33.5vw;
+    font-size:1.1rem;
+    font-weight: bold;
+    color:rgb(34, 34, 72);
+}
+.ticket{
+    margin-left:37vw;
+    font-size:1.1rem;
+    position:relative;
+    top:0.4rem;
+    font-weight: bold;
+    color:rgb(34, 34, 72);
+}
+.container2{
+    margin-top:14vh;
+    display:flex;
+}
+.container3{
+    margin-left:12vw;
+}
+.contact{
+    color:rgb(34, 34, 72);
+    background-color: white;
+    width:32rem;
+    height:17rem;
+    border-radius:2rem;
+}
+.contact-sales{
+    font-size:1.4rem;
+    font-weight: bold;
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+}
+.contact-text{
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+}
+.mail{
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+}
+.toll{
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+}
+.phone{
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+}
+.technical{
+    background-color: white;
+    width:32rem;
+    height:12rem;
+    margin-top:5vh;
+    border-radius:2rem;
+}
+.technical-support{
+    font-size:1.4rem;
+    font-weight: bold;
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+    color:rgb(34, 34, 72);
+}
+.technical-text{
+    padding-left:4rem;
+    position:relative;
+    top:3.5rem;
+    color:rgb(34, 34, 72);
+}
+.technical-contact{
+    padding-left:4rem;
+    position:relative;
+    top:4.5rem;
+    color:red;
+}
+.chat{
+    background-color: white;
+    width:32rem;
+    height:12rem;
+    margin-top:5vh;
+    border-radius:2rem;
+}
+.chat-with{
+    font-size:1.4rem;
+    font-weight: bold;
+    padding-left:4rem;
+    position:relative;
+    top:2.5rem;
+    color:rgb(34, 34, 72);
+}
+.chat-text{
+    padding-left:4rem;
+    position:relative;
+    top:3.5rem;
+    color:rgb(34, 34, 72);
+}
+.chat-support{
+    padding-left:4rem;
+    position:relative;
+    top:4.5rem;
+    color:red;
+}
+.container4{
+    background-color: white;
+    width:35rem;
+    height: 45.5rem;
+    margin-left:10vh;
+    border-radius:2rem;
+}
+.message-text{
+    position: relative;
+    top:1.5rem;
+    padding-left:10rem;
+    font-size:1.5rem;
+    color:rgb(34, 34, 72);
+    font-weight: bold;
+}
+.name{
+    position:relative;
+    top:4rem;
+    margin-left:6rem;
+}
+.name-bar{
+    position:relative;
+    top:0.5rem;
+    width:22rem;
+}
+.name-text{
+    font-size:0.9rem;
+}
+.email{
+    position:relative;
+    top:4rem;
+    margin-left:6rem;
+}
+.mail-bar{
+    position:relative;
+    top:0.5rem;
+    width:22rem;
+}
+.mail-text{
+    font-size:0.9rem;
+}
+.phone1{
+    position:relative;
+    top:4rem;
+    margin-left:6rem;
+}
+.phone1-bar{
+    position:relative;
+    top:0.5rem;
+    width:22rem;
+}
+.phone1-text{
+    font-size:0.9rem;
+}
+.subject{
+    position:relative;
+    top:4rem;
+    margin-left:6rem;
+}
+.subject-bar{
+    position:relative;
+    top:0.5rem;
+    width:22rem;
+}
+.subject-text{
+    font-size:0.9rem;
+}
+.help{
+    position:relative;
+    top:4rem;
+    margin-left:6rem;
+}
+.help-bar{
+    position:relative;
+    top:0.5rem;
+    width:22rem;
+    height:5rem;
+}
+.help-text{
+    font-size:0.9rem;
+}
+.robot{
+    position:relative;
+    top:5rem;
+    margin-left:6rem;
+    border:1px solid grey;
+    width:20rem;
+    height:5rem;
+}
+.robot-box{
+    position:relative;
+    top:1.4rem;
+    left:0.5rem;
+    width:3rem;
+    height:2rem;
+}
+.robot-text{
+    position:relative;
+    top:0.8rem;
+    left:1rem;
+    font-size:0.9rem;
+}
+.submit{
+    position:relative;
+    top:6rem;
+    margin-left:6rem;
+}
+.submit-box{
+    width:22rem;
+    height:2rem;
+    background-color: rgb(234, 77, 19);
+    border-color: rgb(232, 97, 30);
+    color:white;
+    font-weight:bold;
+    border-radius:5px;
+}
+.star{
+    color:red;
+}
+.text1{
+    position:relative;
+    top:7rem;
+    left:6rem;
+}

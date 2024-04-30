@@ -1,0 +1,51 @@
+.container{
+    display:flex;
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+    height:3rem;
+}
+.syncfusion{
+    position: relative;
+    top:1rem;
+    padding-left:7rem;
+}
+.list{
+    list-style-type: none;
+    display:flex;   
+}
+.products{
+    font-size:0.7em;
+    margin-left: 12rem;
+}
+.solution{
+    font-size:0.7em;
+    padding-left: 5rem;
+}
+.learning{
+    font-size:0.7em;
+    padding-left: 5rem;
+}
+.pricing{
+    font-size:0.7em;
+    padding-left: 5rem;
+}
+.company{
+    font-size:0.7em;
+    padding-left: 5rem;
+}
+.free{
+    background-color: blue;
+    font-size:0.6em;
+    margin-left: 4vw;
+    min-height: 1rem;
+    text-align: center;
+    color:white;
+    position:relative;
+    top:-0.5rem;
+    border-color: blue;
+    width:5rem;
+    height: 2rem;
+    border-radius: 0.2rem;
+}
+

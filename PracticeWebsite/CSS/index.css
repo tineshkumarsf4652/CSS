@@ -1,0 +1,20 @@
+.page{
+    font-family:Calibri;
+    margin:0 auto;
+    width:960px;
+}
+.content{
+    background-color: khaki;
+}
+.main{
+    width: 65%;
+    float:left;
+    margin-right: 5%;
+}
+.sidebar{
+    width: 30%;
+    float:left;
+}
+.footer{
+    clear:both;
+}
